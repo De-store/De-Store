@@ -1,0 +1,9 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/De-store/frontend.git
+[submodule "mobile-app"]
+	path = mobile-app
+	url = https://github.com/De-store/mobile-app.git
+[submodule "graph-backend"]
+	path = graph-backend
+	url = https://github.com/De-store/graph-backend.git
