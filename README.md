@@ -36,6 +36,11 @@ This repository is for DeStore mobile application. The mobile application will b
 Repository link : https://github.com/De-store/mobile-app.git
 ```
 
+#### contract addresses
+
+1. Matic mumbai - [0x3447eFaA7A0a95B44c794214b38D017FdD97A8f8](https://mumbai.polygonscan.com/address/0x3447eFaA7A0a95B44c794214b38D017FdD97A8f8)
+2. Evmos testnet - [0x5a18b5D8703D4bBf53365582F50f031965fa1Deb](https://evm.evmos.dev/address/0x5a18b5D8703D4bBf53365582F50f031965fa1Deb/)
+
 ### Useful links
 
 1. Demo video: [https://youtu.be/n-gSDf5BRoM](https://youtu.be/n-gSDf5BRoM)
