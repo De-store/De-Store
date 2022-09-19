@@ -24,7 +24,8 @@ This repository contains the backend for DeStore. This is a basic `The Graph` pr
 
 ```
 Repository link : https://github.com/De-store/graph-backend.git
-The Graph link : https://thegraph.com/legacy-explorer/subgraph/surajsingla333/de-store-graph
+The Graph link (matic-mumbai) : https://thegraph.com/legacy-explorer/subgraph/surajsingla333/de-store-graph
+The Graph link (evmos-testnet) : https://7f9f-103-16-30-190.ngrok.io/subgraphs/name/destore/backend/graphql
 ```
 
 #### mobile-app
