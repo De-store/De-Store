@@ -40,6 +40,7 @@ Repository link : https://github.com/De-store/mobile-app.git
 
 1. Matic mumbai - [0x3447eFaA7A0a95B44c794214b38D017FdD97A8f8](https://mumbai.polygonscan.com/address/0x3447eFaA7A0a95B44c794214b38D017FdD97A8f8)
 2. Evmos testnet - [0x5a18b5D8703D4bBf53365582F50f031965fa1Deb](https://evm.evmos.dev/address/0x5a18b5D8703D4bBf53365582F50f031965fa1Deb/)
+3. 5ire testnet - [0x45F44aa52B051bc67C612685bA1dDb41C507ac9a](https://explorer.5ire.network/address/0x45F44aa52B051bc67C612685bA1dDb41C507ac9a) : evm-network
 
 ### Useful links
 
